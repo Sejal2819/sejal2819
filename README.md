@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sejal Tyagi</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie/female-web-developer-3573238](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw27TCyzIU_2yrkVhYb-K82w&ust=1692905558223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDL4uXC84ADFQAAAAAdAAAAABAW)">
+<img align="right" alt="<img align="right" alt="coding" width="400" src="[[https://iconscout.com/lottie/female-web-developer-3573238](https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoding-geek21%2Fcoding-geek21&psig=AOvVaw27TCyzIU_2yrkVhYb-K82w&ust=1692905558223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDL4uXC84ADFQAAAAAdAAAAABAd)">">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2819&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2819" /> </p>
 
